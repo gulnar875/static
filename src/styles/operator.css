@@ -1,0 +1,68 @@
+/* .navbar {
+    background: #007bff;
+    padding: 23px 12px;
+    color: white;
+} */
+
+.operators  {
+    position: relative;
+    top: 0px;
+    background: WHITE;
+    padding: 88px 109px;
+    margin: 0px 255px;
+    border-radius: 7px;
+    padding: 50px 0px;
+    padding: 65px 0px;
+    background: #f6f6f6;
+    background: #fff;
+    margin: 46px 191px;
+    border-radius: 1px;
+}
+
+.operators label {
+    text-transform: uppercase !important;
+    display: inline-block;
+    margin-bottom: -1.5rem;
+    color: #959ca2;
+    font-size: 15px;
+    text-transform: capitalize;
+    margin: 8px 0px;
+}
+
+
+.operators .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin: 75px 0px;
+    position: relative;
+    padding: 11px 9px;
+    /* width: 189px; */
+    height: 53px;
+    border-radius: 5px;
+    position: relative;
+}
+
+/* .form-control {
+    height: 53px;
+    padding: 0px 14px;
+} */
+.custom-file-control, .custom-file-control:before, .custom-select, select.form-control:not([size]):not([multiple]):not(.form-control-lg):not(.form-control-sm) {
+    /* height: calc(1.28rem + .75rem + 2px); */
+    /* height: 53px; */
+}
+/* body {
+    background: url('https://cdn.pixabay.com/photo/2016/03/26/13/09/notebook-1280538_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+    opacity: .6;
+  } */

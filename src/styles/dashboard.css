@@ -1,0 +1,80 @@
+.date-chart-select ul li {
+  border: 1px solid #37474f !important;
+  display: inline;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.date-chart-select ul li:hover {
+  background: #37474f;
+  color: #fff;
+}
+.date-chart-select {
+  margin: 20px 0 40px 0;
+}
+.rdtPicker {
+  display: none;
+}
+/*------------------------------------------*/
+#datepicker {
+  height: 20px;
+  background: #ddd;
+}
+#highchart-table th,
+#highchart-table td {
+  color: #022c43;
+  border: 1px solid #022c43;
+}
+#highchart-table thead {
+  width: 100%;
+}
+/* hide close button */
+.lightpick__close-action {
+  display: none !important;
+}
+@media only screen and (min-width: 993px) {
+  .row .col.l3 {
+    right: auto;
+    left: auto;
+    width: 20%;
+    margin-left: auto;
+  }
+}
+/*-------------------------------------------------
+  Dashboard common file for Analytics & eCommmerce
+--------------------------------------------------*/
+#revenue-chart span i.material-icons {
+  position: relative;
+  top: 5px;
+}
+
+#revenue-chart .yearly-revenue-chart {
+  position: relative;
+}
+#revenue-chart .yearly-revenue-chart canvas {
+  width: 100% !important;
+  height: 350px !important;
+}
+#revenue-chart .yearly-revenue-chart canvas.firstShadow {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#weekly-earning h3.header {
+  margin: 2.4rem 0 2.3rem 0;
+}
+
+#weekly-earning canvas {
+  width: 100% !important;
+  height: 110 !important;
+  margin: 10px 0 10px -18px;
+}
+
+#weekly-earning .center-align p {
+  margin-bottom: 1rem;
+}
+.logo-img {
+  width: 250px;
+  height: auto;
+  margin: 10px 0 0 10px;
+}
