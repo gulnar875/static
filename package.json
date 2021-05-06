@@ -57,7 +57,7 @@
     "bootstrap-datepicker": "^1.8.0",
     "bootstrap-datetimepicker-npm": "^4.17.37-npm",
     "chart.js": "^2.7.2",
-    "highcharts": "^7.2.1",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^2.2.2",
     "history": "^4.7.2",
     "jquery": "^3.3.1",
